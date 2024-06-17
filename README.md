@@ -16,7 +16,7 @@
 </div>
 
 
-<table width="100%"><tr><td valign="top">
+<table width="100%" align="center"><tr><td valign="top">
 <h3 align="center">Languages</h3>
 	<p align="center">
 		<img src="https://skillicons.dev/icons?i=js"/>
