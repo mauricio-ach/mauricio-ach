@@ -16,7 +16,7 @@
 </div>
 
 
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="40%">
 <h3 align="center">Languages</h3>
 	<p align="center">
 		<img src="https://skillicons.dev/icons?i=js"/>
@@ -31,7 +31,7 @@
         <img src="https://skillicons.dev/icons?i=postgres"/>
     </p>
 
-</td><td valign="top">
+</td><td valign="top" width="33%">
 <h3 align="center">Frontend</h3>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=bootstrap"/>
@@ -51,7 +51,7 @@
     </p>
   
 </td>
-<td valign="top">
+<td valign="top" width="33%">
 <h3 align="center">Backend</h3>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=nodejs"/>
