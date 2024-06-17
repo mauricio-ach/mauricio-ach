@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="styles.css">
+
 <div id="header" align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhrZW43dGl6NDRxeDU4NnF6cnZwZ2c0YXBwZ3R0d2g3cDN1ZndxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
     <h1>
