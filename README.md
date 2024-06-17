@@ -6,22 +6,19 @@
     </h1>
 </div>
 
-<div id="stats" align="center">
-    <table>
-            <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauricio-ach&show_icons=true&theme=aura&count_private=true"/>
-            </a>
-            </td>
-            <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-ach&layout=compact&langs_count=10&theme=aura"/>
-            </a>
-            </td>
-        </table>
+### Sobre mi
+
+<div id="badges" align="center">
+    <h3>¡Contactemos!</h3>
+    <a href="mailto:mauricio.araujoch@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/mauricio-araujo-chávez-795a911ab">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
 
-
+### Habilidades
 <table width="100%" align="center">
     <tr>
         <td valign="top">
@@ -65,3 +62,20 @@
         </td>
     </tr>
 </table>
+
+### Estadísticas
+
+<div id="stats" align="center">
+    <table>
+            <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauricio-ach&show_icons=true&theme=aura&count_private=true"/>
+            </a>
+            </td>
+            <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-ach&layout=compact&langs_count=10&theme=aura"/>
+            </a>
+            </td>
+        </table>
+</div>
