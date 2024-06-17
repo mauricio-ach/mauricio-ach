@@ -8,6 +8,8 @@
 
 ### Sobre mi
 
+Aquí habrá algo que aún no escribo xP
+
 <div id="badges" align="center">
     <h3>¡Contactemos!</h3>
     <a href="mailto:mauricio.araujoch@gmail.com">
