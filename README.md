@@ -1,6 +1,3 @@
-
-<link rel="stylesheet" href="styles.css">
-
 <div id="header" align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhrZW43dGl6NDRxeDU4NnF6cnZwZ2c0YXBwZ3R0d2g3cDN1ZndxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200"/>
     <h1>
@@ -18,33 +15,45 @@
 </a>
 </div>
 
-<div id="techs" align="center">
-    <table style="border: none">
-        <tr>
-            <th>Lenguajes</th>
-            <th>Frontend</th>
-            <th>Backend</th>
-        </tr>
-        <tr>
-            <td><img src="https://skillicons.dev/icons?i=js,python"/></td>
-            <td><img src="https://skillicons.dev/icons?i=bootstrap,react,figma"/></td>
-            <td><img src="https://skillicons.dev/icons?i=nodejs,symfony"/></td>
-        </tr>
-        <tr>
-            <td><img src="https://skillicons.dev/icons?i=java,php"/></td>
-            <td><img src="https://skillicons.dev/icons?i=css,html"/></td>
-        </tr>
-        <tr>
-            <th>DB</th>
-            <th>OS</th>
-        </tr>
-        <tr>
-            <td><img src="https://skillicons.dev/icons?i=mysql,postgresql"/></td>
-            <td><img src="https://skillicons.dev/icons?i=windows,mint,ubuntu"/></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td><img src="https://skillicons.dev/icons?i=debian,powershell"/></td>
-        </tr>
-    </table>
-</div>
+
+<table><tr><td valign="top">
+<h3 align="center">Languages</h3>
+	<p align="center">
+		<img src="https://skillicons.dev/icons?i=js"/>
+        <img src="https://skillicons.dev/icons?i=python"/>
+        <img src="https://skillicons.dev/icons?i=java"/>
+        <img src="https://skillicons.dev/icons?i=php"/>
+	</p>
+  
+<h3 align="center">DB</h3>
+	<p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql"/>
+        <img src="https://skillicons.dev/icons?i=postgres"/>
+    </p>
+
+</td><td valign="top">
+<h3 align="center">Frontend</h3>
+    <p align="center">
+        <img src="https://skillicons.dev/icons?i=bootstrap"/>
+        <img src="https://skillicons.dev/icons?i=react"/>
+        <img src="https://skillicons.dev/icons?i=figma"/>
+        <img src="https://skillicons.dev/icons?i=css"/>
+        <img src="https://skillicons.dev/icons?i=html"/>
+    </p>
+		
+<h3 align="center">OS</h3>
+    <p align="center">
+        <img src="https://skillicons.dev/icons?i=windows"/>
+        <img src="https://skillicons.dev/icons?i=mint"/>
+        <img src="https://skillicons.dev/icons?i=ubuntu"/>
+        <img src="https://skillicons.dev/icons?i=debian"/>
+        <img src="https://skillicons.dev/icons?i=powershell"/>
+    </p>
+  
+</td>
+<td valign="top">
+<h3 align="center">Backend</h3>
+    <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs"/>
+        <img src="https://skillicons.dev/icons?i=symfony"/>
+    </p>
