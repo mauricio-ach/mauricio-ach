@@ -30,6 +30,7 @@ Aquí habrá algo que aún no escribo xP
                 <img src="https://skillicons.dev/icons?i=python"/>
                 <img src="https://skillicons.dev/icons?i=java"/>
                 <img src="https://skillicons.dev/icons?i=php"/>
+                <img src="https://skillicons.dev/icons?i=python"/>
             </p>
             <h3 align="center">DB</h3>
             <p align="center">
