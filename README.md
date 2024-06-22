@@ -8,7 +8,6 @@
 
 ### Sobre mi
 
-Acerca de
 Soy desarrollador de software especializado en el área de desarrollo web y también docente de Informática en niveles básicos de primaria y secundaria, así como en el nivel medio de preparatoria. En mi rol de desarrollador, me enfoco en la creación de webapps, asumiendo funciones tanto de fullstack como de backend developer. Trabajo en estrecha colaboración con los clientes para cumplir con sus requerimientos y me adapto fácilmente a trabajar en equipo.
 
 Como docente, mi objetivo es fomentar el conocimiento tecnológico entre los adolescentes, enseñándoles a utilizar la tecnología como una herramienta de apoyo sin depender de ella.
