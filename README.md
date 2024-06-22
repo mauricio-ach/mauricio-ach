@@ -8,7 +8,14 @@
 
 ### Sobre mi
 
-Aquí habrá algo que aún no escribo xP
+Acerca de
+Soy desarrollador de software especializado en el área de desarrollo web y también docente de Informática en niveles básicos de primaria y secundaria, así como en el nivel medio de preparatoria. En mi rol de desarrollador, me enfoco en la creación de webapps, asumiendo funciones tanto de fullstack como de backend developer. Trabajo en estrecha colaboración con los clientes para cumplir con sus requerimientos y me adapto fácilmente a trabajar en equipo.
+
+Como docente, mi objetivo es fomentar el conocimiento tecnológico entre los adolescentes, enseñándoles a utilizar la tecnología como una herramienta de apoyo sin depender de ella.
+
+He concluido los créditos de mi carrera en ciencias de la computación y actualmente estoy realizando mi trabajo de titulación. Mis principales habilidades incluyen una gran capacidad de autoaprendizaje, empatía, y una sólida formación en ciencias de la computación que me permite colaborar eficazmente en equipos.
+
+A corto y largo plazo, busco mejorar mis habilidades como desarrollador y aprender nuevas estrategias de trabajo en equipo para avanzar en mi carrera como desarrollador de software de tiempo completo.
 
 <div id="badges" align="center">
     <h3>¡Contactemos!</h3>
